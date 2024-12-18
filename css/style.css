@@ -99,12 +99,12 @@ body {
 }
 
 ::selection {
-  background: #0071f8;
+  background: #ad3982;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #0071f8;
+  background: #ad3982;
   color: #fff;
 }
 
@@ -675,7 +675,7 @@ p.avatarimg {
   content: '';
   width: 100%;
   height: 61px;
-  background-image: url(../img/ulinebg.jpg);
+  background-image: url(../img/ulinenew.png);
   background-repeat: no-repeat;
   background-position: left bottom;
   background-size: contain;
@@ -685,7 +685,7 @@ p.avatarimg {
   z-index: 0;
 }
 .bluebox{
-  background-color: #005dbf;
+  background-color: #ad3982;
   padding: 40px 30px;
 }
 .bluebox p{
@@ -755,7 +755,7 @@ ul.social-links li a {
   display: inline-block;
   width: 30px;
   height: 30px;
-  background-color: #002f69;
+  background-color: #ad3982;
   border-radius: 50%;
   text-align: center;
   line-height: 40px;
@@ -809,7 +809,7 @@ footer.footer-no-gap {
 }
 
 footer {
-  background-color: #002f69;
+  background-color: #ad3982;
   padding: 100px 0;
 }
 
